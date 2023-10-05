@@ -1,0 +1,3 @@
+Optinal:
+1. Isprobajte go ova third party API: https://rickandmortyapi.com/api
+2. Napravete si account na mailgun -> https://app.mailgun.com/

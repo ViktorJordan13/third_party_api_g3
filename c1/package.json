@@ -1,0 +1,15 @@
+{
+  "name": "c1",
+  "version": "1.0.0",
+  "description": "- In the context of API the word Application refers to any software with a distinct function\r     - the word Proggraming refers to that its coded (programmed)\r     - Interface can be thought of as as a contract of service, behavior between two applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
